@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+     <string name="localization">Келгиле, англисче жана орусча локализацияны колдой турган тиркеме жазалы. Демейки боюнча англисче локализация колдонулат. Бул учурда,
+         эгерде телефондо керектүү локализацияланган ресурс табылбаса, англисче версия колдонулат.</string>
+    <string name="button_click">Бул жакты басыныз</string>
+</resources>
